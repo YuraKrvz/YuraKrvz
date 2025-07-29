@@ -1,16 +1,6 @@
-<h1 align="left">Hello 👋, how is it going?</h1>
+<h1 align="left">Hi there 👋</h1>
 
 ###
-
-<p align="left">I'm Yurii, a software engineer specializing in React and Next.js frameworks</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨<br>📚 <br>🎯 <br>🎲</p>
 
 ###
 
