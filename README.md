@@ -34,4 +34,6 @@
 
 ###
 
-![Codewars](https://www.codewars.com/users/YuraKrvz/badges/small)
+<a href="https://www.codewars.com/users/YuraKrvz">
+  <img src="https://www.codewars.com/users/YuraKrvz/badges/large" />
+</a>
